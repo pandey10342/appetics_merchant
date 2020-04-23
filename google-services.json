@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277348808134",
+    "firebase_url": "https://appestic-merchant.firebaseio.com",
+    "project_id": "appestic-merchant",
+    "storage_bucket": "appestic-merchant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277348808134:android:daf2f914bb9bc6079b6ec7",
+        "android_client_info": {
+          "package_name": "com.appetics.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277348808134-uhfi4u0cm64n1hcrk5qfb6k5qkkkueaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnTq6kUWThg3FyrzzZjtI6OEOELrDwGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277348808134-uhfi4u0cm64n1hcrk5qfb6k5qkkkueaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
